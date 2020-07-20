@@ -4,7 +4,7 @@ A student mark management system
 
 ## 概述
 
-基于Vue和Spring Boot的前后端分离成绩管理系统，毕业设计项目，仍在开发中。
+基于Vue和Spring Boot的前后端分离成绩管理系统。
 
 ## 开发环境
 
